@@ -1,0 +1,985 @@
+cscope 15 $HOMEdev/embedded_ring_of_trust/tor-0.2.7.6               0000005509
+	@orconfig.h
+
+8 
+	#BUILDDIR
+ "/home/˚n5848/dev/embedded_rög_of_åu°/t‹-0.2.7.6"
+
+	)
+
+11 
+	#CONFDIR
+ "/u§/loˇl/ëc/t‹"
+
+	)
+
+17 
+	#DOUBLE_0_REP_IS_ZERO_BYTES
+ 1
+
+	)
+
+32 
+	#FLEXIBLE_ARRAY_MEMBER
+
+
+	)
+
+35 
+	#HAVE_ACCEPT4
+ 1
+
+	)
+
+38 
+	#HAVE_ARPA_INET_H
+ 1
+
+	)
+
+41 
+	#HAVE_ASSERT_H
+ 1
+
+	)
+
+44 
+	#HAVE_BACKTRACE
+ 1
+
+	)
+
+47 
+	#HAVE_BACKTRACE_SYMBOLS_FD
+ 1
+
+	)
+
+50 
+	#HAVE_CLOCK_GETTIME
+ 1
+
+	)
+
+64 
+	#HAVE_DECL_MLOCKALL
+ 1
+
+	)
+
+84 
+	#HAVE_ERRNO_H
+ 1
+
+	)
+
+87 
+	#HAVE_EVENT2_BUFFEREVENT_SSL_H
+ 1
+
+	)
+
+90 
+	#HAVE_EVENT2_DNS_H
+ 1
+
+	)
+
+93 
+	#HAVE_EVENT2_EVENT_H
+ 1
+
+	)
+
+96 
+	#HAVE_EVENTFD
+ 1
+
+	)
+
+99 
+	#HAVE_EVENT_GET_VERSION_NUMBER
+ 1
+
+	)
+
+105 
+	#HAVE_EVUTIL_SECURE_RNG_INIT
+ 1
+
+	)
+
+109 
+	#HAVE_EVUTIL_SECURE_RNG_SET_URANDOM_DEVICE_FILE
+ 1
+
+	)
+
+112 
+	#HAVE_EXECINFO_H
+ 1
+
+	)
+
+115 
+	#HAVE_EXTERN_ENVIRON_DECLARED
+ 1
+
+	)
+
+118 
+	#HAVE_FCNTL_H
+ 1
+
+	)
+
+121 
+	#HAVE_FLOCK
+ 1
+
+	)
+
+124 
+	#HAVE_FTIME
+ 1
+
+	)
+
+127 
+	#HAVE_GETADDRINFO
+ 1
+
+	)
+
+130 
+	#HAVE_GETHOSTBYNAME_R
+ 1
+
+	)
+
+139 
+	#HAVE_GETHOSTBYNAME_R_6_ARG
+ 1
+
+	)
+
+142 
+	#HAVE_GETIFADDRS
+ 1
+
+	)
+
+145 
+	#HAVE_GETPASS
+ 1
+
+	)
+
+148 
+	#HAVE_GETRESGID
+ 1
+
+	)
+
+151 
+	#HAVE_GETRESUID
+ 1
+
+	)
+
+154 
+	#HAVE_GETRLIMIT
+ 1
+
+	)
+
+157 
+	#HAVE_GETTIMEOFDAY
+ 1
+
+	)
+
+160 
+	#HAVE_GMTIME_R
+ 1
+
+	)
+
+163 
+	#HAVE_GRP_H
+ 1
+
+	)
+
+166 
+	#HAVE_IFADDRS_H
+ 1
+
+	)
+
+169 
+	#HAVE_INET_ATON
+ 1
+
+	)
+
+172 
+	#HAVE_INTTYPES_H
+ 1
+
+	)
+
+175 
+	#HAVE_IOCTL
+ 1
+
+	)
+
+184 
+	#HAVE_LIMITS_H
+ 1
+
+	)
+
+187 
+	#HAVE_LINUX_IF_H
+ 1
+
+	)
+
+190 
+	#HAVE_LINUX_NETFILTER_IPV4_H
+ 1
+
+	)
+
+194 
+	#HAVE_LINUX_NETFILTER_IPV6_IP6_TABLES_H
+ 1
+
+	)
+
+197 
+	#HAVE_LINUX_TYPES_H
+ 1
+
+	)
+
+203 
+	#HAVE_LOCALTIME_R
+ 1
+
+	)
+
+212 
+	#HAVE_MACRO__FUNCTION__
+ 1
+
+	)
+
+218 
+	#HAVE_MACRO__func__
+ 1
+
+	)
+
+221 
+	#HAVE_MALLINFO
+ 1
+
+	)
+
+224 
+	#HAVE_MALLOC_H
+ 1
+
+	)
+
+233 
+	#HAVE_MEMMEM
+ 1
+
+	)
+
+236 
+	#HAVE_MEMORY_H
+ 1
+
+	)
+
+239 
+	#HAVE_MLOCKALL
+ 1
+
+	)
+
+246 
+	#HAVE_NETDB_H
+ 1
+
+	)
+
+252 
+	#HAVE_NETINET_IN_H
+ 1
+
+	)
+
+255 
+	#HAVE_NET_IF_H
+ 1
+
+	)
+
+261 
+	#HAVE_PIPE
+ 1
+
+	)
+
+264 
+	#HAVE_PIPE2
+ 1
+
+	)
+
+267 
+	#HAVE_PRCTL
+ 1
+
+	)
+
+270 
+	#HAVE_PTHREAD_CREATE
+ 1
+
+	)
+
+273 
+	#HAVE_PTHREAD_H
+ 1
+
+	)
+
+276 
+	#HAVE_PWD_H
+ 1
+
+	)
+
+288 
+	#HAVE_RLIM_T
+ 1
+
+	)
+
+291 
+	#HAVE_SA_FAMILY_T
+ 1
+
+	)
+
+297 
+	#HAVE_SIGACTION
+ 1
+
+	)
+
+300 
+	#HAVE_SIGNAL_H
+ 1
+
+	)
+
+303 
+	#HAVE_SOCKETPAIR
+ 1
+
+	)
+
+306 
+	#HAVE_SSIZE_T
+ 1
+
+	)
+
+324 
+	#HAVE_STATVFS
+ 1
+
+	)
+
+327 
+	#HAVE_STDINT_H
+ 1
+
+	)
+
+330 
+	#HAVE_STDLIB_H
+ 1
+
+	)
+
+333 
+	#HAVE_STRINGS_H
+ 1
+
+	)
+
+336 
+	#HAVE_STRING_H
+ 1
+
+	)
+
+345 
+	#HAVE_STRNLEN
+ 1
+
+	)
+
+348 
+	#HAVE_STRPTIME
+ 1
+
+	)
+
+351 
+	#HAVE_STRTOK_R
+ 1
+
+	)
+
+354 
+	#HAVE_STRTOULL
+ 1
+
+	)
+
+360 
+	#HAVE_STRUCT_IN6_ADDR
+ 1
+
+	)
+
+369 
+	#HAVE_STRUCT_SOCKADDR_IN6
+ 1
+
+	)
+
+379 
+	#HAVE_STRUCT_SSL_METHOD_ST_GET_CIPHER_BY_CHAR
+ 1
+
+	)
+
+382 
+	#HAVE_STRUCT_TIMEVAL_TV_SEC
+ 1
+
+	)
+
+385 
+	#HAVE_SYSCONF
+ 1
+
+	)
+
+388 
+	#HAVE_SYSCTL
+ 1
+
+	)
+
+391 
+	#HAVE_SYSLOG_H
+ 1
+
+	)
+
+400 
+	#HAVE_SYS_EVENTFD_H
+ 1
+
+	)
+
+403 
+	#HAVE_SYS_FCNTL_H
+ 1
+
+	)
+
+406 
+	#HAVE_SYS_FILE_H
+ 1
+
+	)
+
+409 
+	#HAVE_SYS_IOCTL_H
+ 1
+
+	)
+
+415 
+	#HAVE_SYS_MMAN_H
+ 1
+
+	)
+
+418 
+	#HAVE_SYS_PARAM_H
+ 1
+
+	)
+
+421 
+	#HAVE_SYS_PRCTL_H
+ 1
+
+	)
+
+424 
+	#HAVE_SYS_RESOURCE_H
+ 1
+
+	)
+
+427 
+	#HAVE_SYS_SELECT_H
+ 1
+
+	)
+
+430 
+	#HAVE_SYS_SOCKET_H
+ 1
+
+	)
+
+433 
+	#HAVE_SYS_STATVFS_H
+ 1
+
+	)
+
+436 
+	#HAVE_SYS_STAT_H
+ 1
+
+	)
+
+439 
+	#HAVE_SYS_SYSCTL_H
+ 1
+
+	)
+
+445 
+	#HAVE_SYS_TIME_H
+ 1
+
+	)
+
+448 
+	#HAVE_SYS_TYPES_H
+ 1
+
+	)
+
+451 
+	#HAVE_SYS_UCONTEXT_H
+ 1
+
+	)
+
+454 
+	#HAVE_SYS_UN_H
+ 1
+
+	)
+
+460 
+	#HAVE_SYS_WAIT_H
+ 1
+
+	)
+
+463 
+	#HAVE_TIME_H
+ 1
+
+	)
+
+469 
+	#HAVE_UCONTEXT_H
+ 1
+
+	)
+
+472 
+	#HAVE_UINT
+ 1
+
+	)
+
+475 
+	#HAVE_UNAME
+ 1
+
+	)
+
+478 
+	#HAVE_UNISTD_H
+ 1
+
+	)
+
+481 
+	#HAVE_USLEEP
+ 1
+
+	)
+
+484 
+	#HAVE_UTIME_H
+ 1
+
+	)
+
+487 
+	#HAVE_U_CHAR
+ 1
+
+	)
+
+490 
+	#HAVE_VASPRINTF
+ 1
+
+	)
+
+503 
+	#LOGFACILITY
+ 
+LOG_DAEMON
+
+
+	)
+
+506 
+	#MALLOC_ZERO_WORKS
+ 1
+
+	)
+
+509 
+	#NULL_REP_IS_ZERO_BYTES
+ 1
+
+	)
+
+515 
+	#PACKAGE
+ "t‹"
+
+	)
+
+518 
+	#PACKAGE_BUGREPORT
+ ""
+
+	)
+
+521 
+	#PACKAGE_NAME
+ "t‹"
+
+	)
+
+524 
+	#PACKAGE_STRING
+ "t‹ 0.2.7.6"
+
+	)
+
+527 
+	#PACKAGE_TARNAME
+ "t‹"
+
+	)
+
+530 
+	#PACKAGE_URL
+ ""
+
+	)
+
+533 
+	#PACKAGE_VERSION
+ "0.2.7.6"
+
+	)
+
+536 
+	#PC_FROM_UCONTEXT
+ 
+uc_mc⁄ãxt
+.
+gªgs
+[
+REG_RIP
+]
+
+	)
+
+539 
+	#RSHIFT_DOES_SIGN_EXTEND
+ 1
+
+	)
+
+542 
+	#SIZEOF_CELL_T
+ 0
+
+	)
+
+545 
+	#SIZEOF_CHAR
+ 1
+
+	)
+
+548 
+	#SIZEOF_INT
+ 4
+
+	)
+
+551 
+	#SIZEOF_INT16_T
+ 2
+
+	)
+
+554 
+	#SIZEOF_INT32_T
+ 4
+
+	)
+
+557 
+	#SIZEOF_INT64_T
+ 8
+
+	)
+
+560 
+	#SIZEOF_INT8_T
+ 1
+
+	)
+
+563 
+	#SIZEOF_INTPTR_T
+ 8
+
+	)
+
+566 
+	#SIZEOF_LONG
+ 8
+
+	)
+
+569 
+	#SIZEOF_LONG_LONG
+ 8
+
+	)
+
+572 
+	#SIZEOF_PID_T
+ 4
+
+	)
+
+575 
+	#SIZEOF_SHORT
+ 2
+
+	)
+
+578 
+	#SIZEOF_SIZE_T
+ 8
+
+	)
+
+581 
+	#SIZEOF_SOCKLEN_T
+ 4
+
+	)
+
+584 
+	#SIZEOF_TIME_T
+ 8
+
+	)
+
+587 
+	#SIZEOF_UINT16_T
+ 2
+
+	)
+
+590 
+	#SIZEOF_UINT32_T
+ 4
+
+	)
+
+593 
+	#SIZEOF_UINT64_T
+ 8
+
+	)
+
+596 
+	#SIZEOF_UINT8_T
+ 1
+
+	)
+
+599 
+	#SIZEOF_UINTPTR_T
+ 8
+
+	)
+
+602 
+	#SIZEOF_VOID_P
+ 8
+
+	)
+
+605 
+	#SIZEOF___INT64
+ 0
+
+	)
+
+608 
+	#STDC_HEADERS
+ 1
+
+	)
+
+611 
+	#TIME_T_IS_SIGNED
+ 1
+
+	)
+
+618 
+	#USE_CURVE25519_DONNA
+ 1
+
+	)
+
+627 
+	#USE_TRANSPARENT
+ 1
+
+	)
+
+630 
+	#USING_TWOS_COMPLEMENT
+ 1
+
+	)
+
+633 
+	#VERSION
+ "0.2.7.6"
+
+	)
+
+637 #i‡
+deföed
+ 
+AC_APPLE_UNIVERSAL_BUILD
+
+
+638 #i‡
+deföed
+ 
+__BIG_ENDIAN__
+
+
+639 
+	#WORDS_BIGENDIAN
+ 1
+
+	)
+
+642 #i‚de‡
+WORDS_BIGENDIAN
+
+
+648 #i‚de‡
+_DARWIN_USE_64_BIT_INODE
+
+
+649 
+	#_DARWIN_USE_64_BIT_INODE
+ 1
+
+	)
+
+662 #ifde‡
+_WIN32
+
+
+664 #i‚de‡
+WINVER
+
+
+665 
+	#WINVER
+ 0x0501
+
+	)
+
+669 #i‚de‡
+_WIN32_WINNT
+
+
+670 
+	#_WIN32_WINNT
+ 0x0501
+
+	)
+
+674 #i‚de‡
+WIN32_LEAN_AND_MEAN
+
+
+675 
+	#WIN32_LEAN_AND_MEAN
+ 1
+
+	)
+
+	@
+1
+.
+1
+/usr/include
+1
+11
+orconfig.h
